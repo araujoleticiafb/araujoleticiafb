@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Automated QA Analyst from Uberlândia, Brazil.
+#### I'm an Automated QA Analyst from Uberlândia, Brazil.
 
 - 🌱 Learning all about **Automated API Testing**
 - 👯 I’m looking to collaborate on **Fun** projects that will make me learn **Fun** stuff
